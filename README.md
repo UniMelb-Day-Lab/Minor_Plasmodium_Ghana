@@ -16,7 +16,7 @@ The study was reviewed/approved by the ethics committees at the Navrongo Health 
 
 ## Species specific _18S rRNA_ PCR protocol
 
-* _18S rRNA_ PCR: [SpeciesSpecific_18S_rRNA_PCR](https://github.com/UniMelb-Day-Lab/SpeciesSpecific_18S_rRNA_PCR)
+* [Species Specific _18S rRNA_ PCR](https://github.com/UniMelb-Day-Lab/SpeciesSpecific_18S_rRNA_PCR): A nested PCR targeting the 18S ribosomal RNA gene (_18S rRNA_) of _Plasmodium_ spp. to detect for the presence of _P. falciparum_, _P. malariae_, _P. ovale_ spp., and/or _P. vivax_.
 
 
 ## Data files: Descriptions
