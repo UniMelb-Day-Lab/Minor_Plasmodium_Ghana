@@ -29,8 +29,8 @@ Metadata for all participants surveyed in each MRS survey (2012, 2015, 2017, 202
 * **age_groups**: Age group of participant
 * **sex**: Sex of participant
 * **catchment_area**: Catchment area of participant
-* **llin_use**: LLIN usage of participant the previous night
-* **antimal_treat**: Antimalaria treatment of participant in the previsous 2-weeks
+* **llin_use**: LLIN usage as reported by the participant for the previous night
+* **antimal_treat**: Antimalarial treatment as mreported by the participant in the previsous 2-weeks
 * **ParaGrp_PCR**: *Plasmodium* spp, group based on the PCR results
 * **PfPCR**: PCR *P. falciparum* status (i.e., Pf PCR + = *P. falciparum* positive; Pf PCR - = *P. falciparum* negative) 
 * **PmPCR**: PCR *P. malariae* status (i.e., Pm PCR + = *P. malariae* positive; Pm PCR - = *P. malariae* negative)
