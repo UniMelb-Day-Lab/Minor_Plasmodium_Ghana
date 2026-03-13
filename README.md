@@ -2,7 +2,7 @@
 
 ## Data Availability & Citation Statement
 
-All data associated with this study, including de-identified individual participant data, are available in the manuscript, appendicies, or the accompanying GitHub repository [Minor_Plasmodium_Ghana](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/data).
+All data associated with this study, including de-identified individual participant data, are available in the manuscript, appendicies, or the accompanying GitHub repository [Minor_Plasmodium_Ghana](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/blob/main/Data/MRS_MinorSpecies_Metadata.csv).
 
 Redistribution or reuse of these data requires proper attribution and prior approval. Researchers interested in further use of these data should contact the Malaria Reservoir Study Team, represented by the corresponding author, Prof. Karen Day (karen.day@unimelb.edu.au), to discuss how these data will be utilized for academic or research purposes and, if appropriate, to identify opportunities for collaboration.
 
@@ -22,7 +22,7 @@ The study was reviewed/approved by the ethics committees at the Navrongo Health 
 ## Data files: Descriptions
 
 ## MRS_MinorSpecies_Metadata.csv
-Metadata for all participants surveyed in each MRS survey (2012, 2015, 2017, 2020, and 2022). This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/data)).
+Metadata for all participants surveyed in each MRS survey (2012, 2015, 2017, 2020, and 2022). This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/blob/main/Data/MRS_MinorSpecies_Metadata.csv)).
 * **survey_year**: Survey year during which the participants were surveyed    
 * **mrs_study_id**: Unique MRS participant ID
 * **study_id**: General study participant ID 
