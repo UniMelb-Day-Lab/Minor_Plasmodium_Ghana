@@ -24,13 +24,12 @@ The study was reviewed/approved by the ethics committees at the Navrongo Health 
 ## MRS_MinorSpecies_Metadata.csv
 Metadata for all participants surveyed in each MRS survey (2012, 2015, 2017, 2020, and 2022). This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/Data)).
 * **survey_year**: Survey year during which the participants were surveyed    
-* **mrs_study_id**: Unique MRS participant ID
-* **study_id**: General study participant ID 
+* **mrs_study_id**: MRS participant study ID
 * **age_groups**: Age group of participant
 * **sex**: Sex of participant
 * **catchment_area**: Catchment area of participant
-* **llin_use**: LLIN usage as reported by the participant for the previous night
-* **antimal_treat**: Antimalarial treatment as mreported by the participant in the previsous 2-weeks
+* **llin_use**: LLIN usage the previous night as reported by the participant
+* **antimal_treat**: Antimalarial treatment in the previous 2 weeks as reported by the participant
 * **ParaGrp_PCR**: *Plasmodium* spp. group based on the PCR results
 * **PfPCR**: PCR *P. falciparum* status (i.e., Pf PCR + = *P. falciparum* positive; Pf PCR - = *P. falciparum* negative) 
 * **PmPCR**: PCR *P. malariae* status (i.e., Pm PCR + = *P. malariae* positive; Pm PCR - = *P. malariae* negative)
