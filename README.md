@@ -22,18 +22,16 @@ The study was reviewed/approved by the ethics committees at the Navrongo Health 
 ## Data files: Descriptions
 
 ## MRS_MinorSpecies_Metadata.csv
-Metadata for all participants surveyed in each MRS survey (2012, 2015, 2017, 2020, and 2022). This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/Data)).
-* **survey_year**: Survey year during which the participants were surveyed    
+Metadata for all participants enrolled in each MRS survey undertaken at the end of the wet or high-transmission season (i.e., October) in 2012, 2015, 2017, 2020, and 2022. This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/Data)).
+* **survey_year**: Survey year during which the participants were surveyed (i.e., Ocotber 2012, 2025, 2017, 2020, or 2022)    
 * **mrs_study_id**: MRS participant study ID
-* **age_groups**: Age group of participant
-* **sex**: Sex of participant
-* **catchment_area**: Catchment area of participant
-* **llin_use**: LLIN usage the previous night as reported by the participant
-* **antimal_treat**: Antimalarial treatment in the previous 2 weeks as reported by the participant
+* **age_groups**: Age group of participant (i.e., < 5 years, 5-10 years, 11-20 years, or > 20 years)
+* **sex**: Sex of participant (i.e., Female or Male)
+* **catchment_area**: Catchment area of participant (i.e., Vea/Gowrie or Soe)
+* **llin_use**: LLIN usage the previous night as reported by the participant (i.e., Yes or No)
+* **antimal_treat**: Antimalarial treatment in the previous 2 weeks as reported by the participant (i.e., Yes, No, Don't know)
 * **ParaGrp_PCR**: *Plasmodium* spp. group based on the PCR results
 * **PfPCR**: PCR *P. falciparum* status (i.e., Pf PCR + = *P. falciparum* positive; Pf PCR - = *P. falciparum* negative) 
 * **PmPCR**: PCR *P. malariae* status (i.e., Pm PCR + = *P. malariae* positive; Pm PCR - = *P. malariae* negative)
 * **PoPCR**: PCR *P. ovale* spp. status (i.e., Po PCR + = *P. ovale* spp. positive; Po PCR - = *P. ovale* spp. negative)
 * **PvPCR**: PCR *P. vivax* status (i.e., Pv PCR + = *P. vivax* positive; Pv PCR - = *P. vivax* negative)
-
-This dataset represents the underlying source data used to generate the figures and tables (including Supporting Information) in the manuscript).
