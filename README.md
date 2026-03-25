@@ -30,8 +30,8 @@ Metadata for all participants enrolled in each MRS survey undertaken at the end 
 * **catchment_area**: Catchment area of participant (i.e., Vea/Gowrie or Soe)
 * **llin_use**: LLIN usage the previous night as reported by the participant (i.e., Yes or No)
 * **antimal_treat**: Antimalarial treatment in the previous 2 weeks as reported by the participant (i.e., Yes, No, Don't know)
-* **ParaGrp_PCR**: *Plasmodium* spp. group based on the PCR results
-* **PfPCR**: PCR *P. falciparum* status (i.e., Pf PCR + = *P. falciparum* positive; Pf PCR - = *P. falciparum* negative) 
-* **PmPCR**: PCR *P. malariae* status (i.e., Pm PCR + = *P. malariae* positive; Pm PCR - = *P. malariae* negative)
-* **PoPCR**: PCR *P. ovale* spp. status (i.e., Po PCR + = *P. ovale* spp. positive; Po PCR - = *P. ovale* spp. negative)
-* **PvPCR**: PCR *P. vivax* status (i.e., Pv PCR + = *P. vivax* positive; Pv PCR - = *P. vivax* negative)
+* **ParaGrp_PCR**: *Plasmodium* spp. status based on PCR
+* **PfPCR**: *P. falciparum* status based on PCR (i.e., Pf PCR + = *P. falciparum* positive; Pf PCR - = *P. falciparum* negative) 
+* **PmPCR**: *P. malariae* status based on PCR (i.e., Pm PCR + = *P. malariae* positive; Pm PCR - = *P. malariae* negative)
+* **PoPCR**: *P. ovale* spp. status based on PCR (i.e., Po PCR + = *P. ovale* spp. positive; Po PCR - = *P. ovale* spp. negative)
+* **PvPCR**: *P. vivax* status based on PCR (i.e., Pv PCR + = *P. vivax* positive; Pv PCR - = *P. vivax* negative)
