@@ -25,7 +25,7 @@ The study was reviewed/approved by the ethics committees at the Navrongo Health 
 Metadata for all participants enrolled in each MRS survey undertaken at the end of the wet or high-transmission season (i.e., October) in 2012, 2015, 2017, 2020, and 2022. This dataset includes de-identified information from individual survey participants in each MRS survey (see [Data](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/tree/main/Data)).
 * **survey_year**: Survey year during which the participants were surveyed (i.e., Ocotber 2012, 2025, 2017, 2020, or 2022)    
 * **mrs**: Malaria Reservoir Study (MRS) code
-* **study_id**: General study participant ID
+* **study_id**: Participant study ID
 * **age_groups**: Age group of participant (i.e., < 5 Years, 5-10 Years, 11-20 Years, or 21+ Years)
 * **sex**: Sex of participant (i.e., Female or Male)
 * **catchment_area**: Catchment area of participant (i.e., Vea/Gowrie or Soe)
