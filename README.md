@@ -4,7 +4,7 @@
 
 All data associated with this study, including de-identified individual participant data, are available in the manuscript, supporting information, and on GitHub [Minor_Plasmodium_Ghana](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/).
 
-Redistribution or reuse of these data requires proper attribution and prior approval. Researchers interested in further use of these data should contact the Malaria Reservoir Study Team, represented by the corresponding author, Prof. Karen Day (karen.day@unimelb.edu.au), to discuss how these data will be utilized for academic or research purposes and, if appropriate, to identify opportunities for collaboration.
+Redistribution or reuse of the participant metadata provided in the GitHub repository requires proper attribution and prior approval. Researchers interested in further use of these data should contact the Malaria Reservoir Study Team, represented by the corresponding author, Prof. Karen Day (karen.day@unimelb.edu.au), to discuss how these data will be utilized for academic or research purposes and, if appropriate, to identify opportunities for collaboration.
 
 If you use data from this work, please cite: **PENDING**
 
