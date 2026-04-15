@@ -4,9 +4,9 @@
 
 All data associated with this study, including de-identified individual participant data, are available in the manuscript, supporting information, and on GitHub [Minor_Plasmodium_Ghana](https://github.com/UniMelb-Day-Lab/Minor_Plasmodium_Ghana/).
 
-Redistribution or reuse of the participant metadata provided in the GitHub repository requires proper attribution and prior approval. Researchers interested in further use of these data should contact the Malaria Reservoir Study Team, represented by the corresponding author, Prof. Karen Day (karen.day@unimelb.edu.au), to identify opportunities for collaboration.
+Redistribution or reuse of the participant metadata provided in the GitHub repository requires proper attribution and prior approval. Researchers interested in further use of these data should contact the Malaria Reservoir Study Team, represented by the corresponding author, Prof. Karen Day (karen.day@unimelb.edu.au) to identify opportunities for collaboration.
 
-If you use data from this work, please cite: **PENDING**
+If you use data from this work, please cite: Rios-Teran CA, Tiedje KE, Bangre O, Deed SL, Argyropoulos DC, Koram KA, Oduro AR, Ansag PA, and Dat KP. (2026) The dynamics of asymptomatic Plasmodium spp. infections following 10 years of malaria control interventions in Northern Sahelian Ghana. PLoS Negl Trop Dis 20(4): e0014174. [https://doi.org/10.1371/journal.pntd.0014174](https://doi.org/10.1371/journal.pntd.0014174)
 
 ## Human subject ethical approval
 
